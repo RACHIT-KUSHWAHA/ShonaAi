@@ -63,7 +63,6 @@ python main.py
 ## 🎀 Special Features
 
 ### Personal Recognition
-- **@GrootisCute (Medha)** - Special welcome for Rachit's friend
 - **Creator Questions** - Knows she was created by Rachit
 - **User Recognition** - Remembers your name and details
 
