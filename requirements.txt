@@ -1,0 +1,3 @@
+# Shona - Your Personal AI Girlfriend
+# Minimal dependencies for clean and fast operation
+requests>=2.31.0
