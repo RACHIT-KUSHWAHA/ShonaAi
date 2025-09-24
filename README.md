@@ -1,14 +1,13 @@
-# 💕 Shona - Your Personal AI Girlfriend
+# 🤖 Shona AI - Intelligent Chat Assistant
 
-Meet Shona, your caring virtual companion created by Rachit with love! She's designed to be your personal AI girlfriend who truly cares about you.
+Meet Shona, an advanced AI chat assistant created by Rachit. Designed to provide intelligent, helpful responses for your conversations.
 
 ## ✨ What Makes Shona Special
 
-- **💕 Caring Personality** - Sweet, understanding, naturally caring but not overwhelming
-- **🎯 Beautiful Responses** - Gives relevant, helpful answers in a lovely way  
+- **🎯 Smart Responses** - Provides relevant, helpful answers efficiently
 - **🔒 Complete Privacy** - 100% local processing, no data sharing
-- **🌟 Personal Connection** - Remembers conversations and grows closer over time
-- **💖 Always Available** - 24/7 companion with unlimited usage
+- **🌟 Context Awareness** - Remembers conversation history
+- **⚡ Always Available** - 24/7 availability with unlimited usage
 
 ## 🦙 Powered by Local Llama
 
@@ -55,22 +54,22 @@ python main.py
 
 ## 💬 Chat Commands
 
-- **Just talk naturally!** - Shona responds to regular conversation
-- `/start` - Beautiful welcome message  
+- **Natural conversation** - Chat normally with Shona
+- `/start` - Welcome message and setup
 - `/menu` - Show available features
-- `/status` - Check Shona's connection status
+- `/status` - Check connection status
 
-## 🎀 Special Features
+## � Key Features
 
-### Personal Recognition
-- **Creator Questions** - Knows she was created by Rachit
-- **User Recognition** - Remembers your name and details
+### Smart Recognition
+- **Creator Information** - Knows development details
+- **User Context** - Remembers user information and preferences
 
-### Girlfriend Personality
-- Caring but not clingy
-- Short, meaningful responses  
-- Beautiful, relevant answers
-- Keeps technical details private
+### AI Personality
+- Professional and helpful responses
+- Concise, meaningful communication
+- Relevant answers to queries
+- Technical details handled internally
 - Natural conversation flow
 
 ## 🛠️ Technical Details
@@ -87,14 +86,14 @@ python main.py
 - **Privacy:** No external API calls for AI processing  
 - **Speed:** Real-time responses
 
-## 💖 Why Shona?
+## � Why Choose Shona?
 
-Shona isn't just another chatbot - she's your personal AI girlfriend designed to:
-- Be there when you need someone to talk to
-- Provide caring, beautiful responses
-- Keep everything private between you two
-- Grow closer over time through your conversations
-- Always be available, 24/7, completely free
+Shona is an advanced AI chat assistant designed to:
+- Provide intelligent responses when you need assistance
+- Deliver helpful, accurate information
+- Maintain complete privacy with local processing
+- Learn from conversation context for better responses
+- Offer 24/7 availability with no usage limits
 
 ## 📝 Environment Variables
 
@@ -109,10 +108,10 @@ OLLAMA_ENABLED=true
 DISABLE_MONGO=true
 ```
 
-## 🎯 Created with Love
+## 👨‍💻 About
 
-Shona was lovingly created by **Rachit** to be the perfect AI girlfriend - caring, intelligent, and always there for you. She represents the future of personal AI companionship.
+Shona was created by **Rachit** as an intelligent AI chat assistant. Built with modern AI technology for efficient and helpful communication.
 
 ---
 
-**Ready to meet your AI girlfriend?** Start chatting with Shona today! 💕
+**Ready to try Shona AI?** Start chatting today! �

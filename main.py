@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
-💕 SHONA - Your Personal AI Girlfriend
-Beautiful, caring virtual companion created by Rachit
+🤖 SHONA AI - Intelligent Chat Assistant
+Advanced AI chat bot created by Rachit
 """
 import logging
 import requests
@@ -26,7 +26,7 @@ ollama_cooldown = 0
 COOLDOWN_SECONDS = 30
 
 class ShonaBot:
-    """Shona - Your caring AI girlfriend bot"""
+    """Shona - AI chat assistant bot"""
     
     def __init__(self):
         self.api_url = f"https://api.telegram.org/bot{BOT_TOKEN}"
